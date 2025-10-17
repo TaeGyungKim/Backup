@@ -16,3 +16,15 @@ Bouncing Ball game / backup
 | [용암](https://assetstore.unity.com/packages/2d/textures-materials/stone/stylized-lava-pbr-texture-200039) |
 |[image](https://lostark.game.onstove.com/Artwork) |
 |Blutgruppe/Corbis|
+
+## error log
+
+during subtree add time 
+
+```
+Unlink of file 'BouncingBall_Homework/Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~' failed. Should I try again? (y/n) n
+
+warning: unable to unlink 'BouncingBall_Homework/Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~': Directory not empty
+
+fatal: cannot create directory at 'BouncingBall_Homework/Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~': Directory not empty
+```
