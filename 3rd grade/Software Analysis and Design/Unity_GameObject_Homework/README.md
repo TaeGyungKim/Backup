@@ -1,6 +1,12 @@
+# Unity_GameObject_Homework
 
+- 제출 날짜: 2022-10-17 (6주차 과제)
 
+Unity Homework use Unity 2020.3.1f1 
 
+backup
+
+- collision test
 
 ## error log
 
